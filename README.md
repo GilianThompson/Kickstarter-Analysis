@@ -8,5 +8,7 @@ Some statisital analyis was also done on the data set. Filtering the data set to
 
 Some analysis was also done on theather campaigns in Great Britain where Louise plans to hold a future campaign for a musical with an estimated budget of $4,000. It was observed that these types of campaigns are also generally successful, although the median goal for the data set was approximately $2,000 which approximately 75% of the pledged amounts were equal to or less than. So, it is recommended that Louise lower her budget for her future campaign in Great Britain, too. 
 
+![parentCategoryoutcomes](https://user-images.githubusercontent.com/85901073/122579056-84c68400-d022-11eb-9ddb-821cba446857.png)
+
 
 
