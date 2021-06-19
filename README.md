@@ -11,7 +11,7 @@ Looking at the chart, it can be seen that just under 80% of the campaigns whose 
   
 Some analysis was also done on theather campaigns in Great Britain where Louise plans to hold a future campaign for a musical with an estimated budget of $4,000. It was observed that these types of campaigns are also generally successful, although the median goal for the data set was approximately $2,000 which approximately 75% of the pledged amounts were equal to or less than. So, it is recommended that Louise lower her budget for her future campaign in Great Britain, too. 
 
-One challenge encountered during this project was ...
+One limiation of the data set was that it didn't include the approach taken to raise money for each campaign. This information could have given addition insight on what makes a successful campaign to better aid Louise on what route to take for her own campaigns. 
 
 One possible addition to the analysis could be to narrowed down the Outcomes Based on Goal chart to only show the outcomes of the play campaigns instead of viewing the results for all the campaign categories. A box and whiskers plot for the successful vs failed play campaigns could have also been created to visualize the statistics discussed above. Goal and pledged amounts based on launched month could have also been graphed. 
 
