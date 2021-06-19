@@ -3,6 +3,7 @@ This project is meant to analyize kickstarter data in order to help Louise creat
 
 The given data set contains 4115 differnet kickstarters from different categories like theater and food whose outcome, whether successful, failed, or canceled, can be seen in the following graph: 
 ![parentCategoryoutcomes](https://user-images.githubusercontent.com/85901073/122579056-84c68400-d022-11eb-9ddb-821cba446857.png)
+
 Louise is mostly concerned with the theater category, and from this graph it can be seen that theater is an over successful campaign with over half of the campaigns reaching their funding goals. Next, a breakdown of the outcomes based on what month the campaigns were launched was done and can be seen in the following chart: 
 ![outcomesYear](https://user-images.githubusercontent.com/85901073/122579182-a7f13380-d022-11eb-8171-f6942f787670.png)
 From this chart, it can be seen that, generally, the campaigns launched in May, June, and July had more success of achieving their campaign fundraising goals. 
